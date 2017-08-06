@@ -1,0 +1,4 @@
+services:
+#    ajpf_ajax_datatable.example:
+#        class: ajpf\AjaxDatatableBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
