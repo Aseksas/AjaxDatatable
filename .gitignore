@@ -16,3 +16,5 @@
 /vendor/
 /web/bundles/
 /.idea/*
+.idea/vcs.xml
+src/ajpf/AjaxDatatableBundle/Resources/views/
