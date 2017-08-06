@@ -1,4 +1,4 @@
 services:
-#    ajpf_ajax_datatable.example:
-#        class: ajpf\AjaxDatatableBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]
+    datatable:
+        class: ajpf\AjaxDatatableBundle\Service\Datatable
+        arguments: ["@doctrine.orm.entity_manager.abstract"]
